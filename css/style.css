@@ -1,6 +1,20 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #fff;
+  color: #333;
+  font-size: 18px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #FBA210;
+}
+
+a:hover {
+  color: #8FE7F5;
+}
+
+a:visited, a:active {
+  color: #DF7110;
 }
 
 nav {
@@ -8,6 +22,22 @@ nav {
   float: left;
   position: fixed;
   width: 100%;
+}
+
+h1 {
+  font-size: 3em;
+  line-height: 100%;
+  padding: 0.25em 0 0.25em;
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 120%;
+}
+
+p {
+  line-height: 130%;
+  padding: 0 0 1em;
 }
 
 .logo {
