@@ -1,2 +1,2 @@
 # css-exercise-two
-Assignment for Fundamentals
+Assignment for Fundamentals for Bloc Apprenticeship
